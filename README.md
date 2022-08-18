@@ -1,4 +1,4 @@
-# terrarium_sensor
+# Terrarium sensor
 
 This project will serve as a blueprint for a small terrarium environmental/controller hub.
 
