@@ -31,3 +31,9 @@ In the future we're hoping to implement it smoothly with TerrariumPI (https://gi
 - [ ] Get it 3d printed 
 - [ ] Put all the lego together 
 - [ ] Write Documentation 
+-----
+## Longer term
+In no particular order: 
+
+- [ ] Implement other chip types (ES8266)
+- [ ] couple relays into a seperate extensible breadboard
