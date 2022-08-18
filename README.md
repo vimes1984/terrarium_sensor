@@ -11,3 +11,16 @@ It consists of one ESP32 (we're using https://docs.espressif.com/projects/esp-id
 We're planning to also release a GERBER file for custom PCBs.
 
 In the future we're hoping to implement it smoothly with TerrariumPI (https://github.com/theyosh/TerrariumPI/issues/733).
+
+
+-------
+## To-Do
+- [ ] Get Oled working 
+- [ ] Get second i2c SHT working
+- [ ] Get enclosure built for GUVA ( I was nattering with a hardware nerd friend yesterday about this and a nice USB cable with the ends snipped off + heat wrap and a dab of silicone should do it  )
+- [ ] Get PCB designed 
+- [ ] Print PCB's 
+- [ ] Design Enclosure in CAD 
+- [ ] Get it 3d printed 
+- [ ] Put all the lego together 
+- [ ] Write Documentation 
