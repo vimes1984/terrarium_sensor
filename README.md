@@ -15,6 +15,11 @@ In the future we're hoping to implement it smoothly with TerrariumPI (https://gi
 
 -------
 ## To-Do
+- [x] Conceptual design in fritzing 
+- [x] Order parts
+- [x] Flash esp32 with Tasmota
+- [x] Assemble prototype in breadboard
+- [ ] Get Oled working 
 - [ ] Get Oled working 
 - [ ] Get second i2c SHT working
 - [ ] Get enclosure built for GUVA ( I was nattering with a hardware nerd friend yesterday about this and a nice USB cable with the ends snipped off + heat wrap and a dab of silicone should do it  )
